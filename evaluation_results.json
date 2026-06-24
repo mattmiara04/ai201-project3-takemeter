@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.9,
+  "finetuned_accuracy": 0.6333,
+  "improvement": -0.2667,
+  "test_set_size": 30,
+  "label_map": {
+    "strategy_analysis": 0,
+    "reasoned_opinion": 1,
+    "unsupported_complaint": 2,
+    "reaction_or_meme": 3
+  },
+  "model": "distilbert-base-uncased"
+}
